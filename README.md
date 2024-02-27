@@ -2,19 +2,19 @@
 
 This repository includes some Digital-Image-Processing programs written in Python.
 
-## Author
+### Author
 `Sumaita Binte Shorif`
 
 
-Installing Tools
-----------------
+### Installing Tools
+<hr>
 	
 1. Download Python 3.10 IDLE from this official link (https://www.python.org/downloads/).<br>
 
 	```https://www.python.org/downloads/```
 
 
-## Experiments:
+### Experiments:
 * Experiment-1: Build in Image Display <br>
 
 * Experiment-2: External Image Display. <br>
