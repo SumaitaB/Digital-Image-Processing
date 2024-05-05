@@ -1,6 +1,6 @@
 # Digital Image Processing
 
-#### This repository includes some Digital-Image-Processing programs written in Python.
+This repository includes some Digital-Image-Processing programs written in Python.
 
 ### Author
 `Sumaita Binte Shorif`
