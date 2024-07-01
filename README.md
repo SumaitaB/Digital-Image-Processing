@@ -1,4 +1,4 @@
-# Digital Image Processing
+## Digital Image Processing
 
 This repository includes some Digital-Image-Processing programs written in Python.
 
